@@ -343,7 +343,7 @@ section .title::after{
 
 /* services section styling */
 .services .title::after{
-    content: "what i know";
+    content: "what i can do";
 }
 .services .carousel .card{
     /*background: #222;*/
