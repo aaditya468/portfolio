@@ -346,7 +346,7 @@ section .title::after{
     content: "what i know";
 }
 .services .carousel .card{
-    background: #222;
+    /*background: #222;*/
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
