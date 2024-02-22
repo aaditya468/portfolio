@@ -508,14 +508,15 @@ section .title::after{
     padding-left: 20px;
 }
 /* Style for icons and email link */
-.contact .icons a, .contact .icons .fa {
+.contact .icons a, .contact .icons .fa, .contact .info a {
     color: crimson; /* Match the color with other icons */
     text-decoration: none; /* Remove underline from links */
 }
 
 /* Add hover effect for icons and email link if needed */
-.contact .icons a:hover {
+.contact .icons a:hover, .contact .info a:hover {
     color: #333; /* Example: change color on hover */
+}
 }
 /* footer section styling */
 footer{
